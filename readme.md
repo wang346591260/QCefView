@@ -1,6 +1,6 @@
 # QCefView https://cefview.github.io/QCefView/
 
-## [Quick Start](https://cefview.github.io/QCefView/)
+## [Quick Start]([https://cefview.github.io/QCefView/](https://www.google.com/webhp?hl=zh-CN&sa=X&ved=0ahUKEwjxpr_2sfeAAxUeiVYBHaiNC9QQPAgI))
 
 
 QCefView is a Qt based QWidget which encapsulates [CEF](https://bitbucket.org/chromiumembedded/cef). With QCefView you can build your application UI in frontend developing way to boost your project. And what's more you can completely decouple the UI and business logic in your project.
